@@ -1,1 +1,2 @@
 # Cleaveland_Heart_Disease_Prediction
+Cardiovascular diseases (CVDs) or heart diseases are the leading cause of global mortality, resulting in 17.9 million deaths annually. CVDs are often linked to factors such as hypertension, diabetes, obesity, and unhealthy lifestyles. This project involves manual exploratory data analysis and utilizes pandas profiling in Jupyter Notebook. The dataset utilized for this project is The UCI Heart Disease dataset.
